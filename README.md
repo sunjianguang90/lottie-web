@@ -1,4 +1,6 @@
 # Lottie for Web, [Android](https://github.com/airbnb/lottie-android), [iOS](https://github.com/airbnb/lottie-ios), and [React Native](https://github.com/airbnb/lottie-react-native)
+Lottie可以把Adobe After Effects制作的动画导出为JSON，然后能在Android 、IOS、WEB上播放。
+教程　https://www.jianshu.com/p/d0f4c823fa06
 
 Lottie is a mobile library for Web,  and iOS that parses [Adobe After Effects](http://www.adobe.com/products/aftereffects.html) animations exported as json with [Bodymovin](https://github.com/airbnb/lottie-web) and renders them natively on mobile!
 
